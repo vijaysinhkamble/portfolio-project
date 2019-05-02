@@ -1,5 +1,5 @@
 #Django 2.2 #Python 3.7 #Bootstrap 4 #HTML #CSS
 
-Vijaysinh's portfolio
+Vijaysinh's_portfolio (development version 1.0.0)
 
-![blog snap](https://user-images.githubusercontent.com/38792487/57073376-95aac300-6cfe-11e9-9949-3f9ba8185cdf.png)
+![Portfolio_Snap](https://user-images.githubusercontent.com/38792487/57075617-e6bdb580-6d04-11e9-827e-5421af731b6a.png)
