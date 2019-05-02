@@ -1,2 +1,2 @@
-# portfolio-project
-vijaysinh's portfolio using django 2.2, python 3.7 and bootstrap 4.
+vijaysinh's portfolio  
+![blog snap](https://user-images.githubusercontent.com/38792487/57073376-95aac300-6cfe-11e9-9949-3f9ba8185cdf.png)
