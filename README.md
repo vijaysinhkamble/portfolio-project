@@ -1,2 +1,2 @@
 # portfolio-project
-vijaysinh's portfolio using django, python and bootstrap 4.
+vijaysinh's portfolio using django 2.2, python 3.7 and bootstrap 4.
